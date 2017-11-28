@@ -1,3 +1,5 @@
+# This is a simple crude bad terrible makefile that JUST WERKS for my personal immediate use
+
 SDIR = src
 ODIR = $(SDIR)/obj
 IDIR = include
